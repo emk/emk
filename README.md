@@ -21,7 +21,7 @@ Dubious AI test projects:
 - [vibe-coded-meme-database](https://github.com/emk/vibe-coded-meme-database): Early experiment with Sonnet 3.7. Exercise caution.
 - [xcal-rust](https://github.com/emk/xcal/tree/rust/xcal_rust): A clone of the 1977 mainframe Xcalibur chat program. The big experiment here was building a byte-accurate protocol recorder, plus a sensible core, then turning a multi-agent Opus 4.x swarm loose. It did wind up with three copies of the date-formatting routines. Peak implementation throughput was about 3,000 lines in 90 minutes. See also the excellent 1997 [C version](https://github.com/creachadair/xcal) by a friend.
 - [fable-retro-shopper-android](https://github.com/emk/fable-retro-shopper-android): Partial clone of the [classic HandyShopper PalmPilot app](https://stuff.mit.edu/afs/sipb/user/golem/tmp/pilot/hs/shop.htm). Supports sorting by per-store aisle numbers, for efficient passes through the store. Fable 5 one-shot, $44.40 in tokens, 1 hour 46 minutes. 
-- [fable-wasm-prolog](https://github.com/emk/fable-wasm-prolog). A toy Prolog written in 1,000 lines of WASM WAT assembly language. Fable 5 one-shot, $16.75 in tokens, 61 minutes. Honestly this is the most impressive thing I've seen Fable 5 do.
+- [fable-wasm-prolog](https://github.com/emk/fable-wasm-prolog). A toy Prolog written in 1,000 lines of WASM WAT assembly language. Fable 5 one-shot, $16.75 in tokens, 61 minutes.
 
 ### Lovingly hand-crafted hacks (ongoing)
 
