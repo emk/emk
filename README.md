@@ -3,7 +3,7 @@ Some of the more interesting projects I've played a major role in are listed bel
 ### Serious production stuff
 
 - [falconeri](https://github.com/dbcrossbar/falconeri): A deliberately simple distributed job runner for Kurbernetes. Good for the sort of thing where you need 350 servers for 23 hours straight. Warranty is _definitely_ voided above 2,000 servers.
-- [dbcrossbar](https://github.com/dbcrossbar/dbcrossbar): A tool for moving tables between different kinds of databases, with automatic schema conversions. Opinionated.
+- [dbcrossbar](https://www.dbcrossbar.org/): A tool for moving tables between different kinds of databases, with automatic schema conversions. Opinionated.
 - (HISTORIC, 2009) [Halyard multimedia engine](https://github.com/emk/halyard): 2D/3D multimedia engine scriptable in PLT Scheme, used to build training sofware for Hazmat teams. Includes an embedded Quake 2 engine modified by [Vadim Zeitlin](https://www.linkedin.com/in/vadim-zeitlin-651a93a/) and a moderately accurate gamma radiation simulation.
 
 ### Language learning
